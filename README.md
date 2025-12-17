@@ -1,6 +1,6 @@
 # student_management_system_in_django
 student_management_system_in_django
-
+<!--
 [![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/hackstarsj/student_management_system_part_11/raw/master/LICENSE)
 
 
@@ -38,6 +38,7 @@ Tutorial Link : <a href="https://youtu.be/n4ly0_S3uGo">https://youtu.be/n4ly0_S3
 </td>
 </tr>
 </table>
+-->
 <hr>
 <h2>Installation Steps : </h2>
 
